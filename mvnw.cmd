@@ -1,4 +1,4 @@
-@REM ----------------------------------------------------------------------------
+GIT@REM ----------------------------------------------------------------------------
 @REM Licensed to the Apache Software Foundation (ASF) under one
 @REM or more contributor license agreements.  See the NOTICE file
 @REM distributed with this work for additional information
@@ -22,7 +22,7 @@
 @REM
 @REM Required ENV vars:
 @REM JAVA_HOME - location of a JDK home dir
-@REM
+@REMgit
 @REM Optional ENV vars
 @REM M2_HOME - location of maven2's installed home dir
 @REM MAVEN_BATCH_ECHO - set to 'on' to enable the echoing of the batch commands
